@@ -13,7 +13,6 @@ struct DefaultButtonViewModifier: ViewModifier {
     
     func body(content: Content) -> some View {
         content
-            .font(.headline)
             .foregroundStyle(.white)
             .frame(height: 55)
             .frame(maxWidth: .infinity)

@@ -60,7 +60,7 @@ struct MatchedGeometryEffectExample: View {
                             .offset(y: 10)
                     }
                     
-                    Text(category)
+                    Text(category) 
                         .foregroundStyle(selected == category ? .red : .primary)
                 }
                 .frame(maxWidth: .infinity)

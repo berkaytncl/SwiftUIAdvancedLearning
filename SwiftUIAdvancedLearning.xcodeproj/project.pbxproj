@@ -36,6 +36,7 @@
 		EBC9CEFC2B38938D006D1387 /* UIViewControllerRepresentableBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBC9CEFB2B38938D006D1387 /* UIViewControllerRepresentableBootcamp.swift */; };
 		EBD275862B31D9E2001E1537 /* GenericsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBD275852B31D9E2001E1537 /* GenericsBootcamp.swift */; };
 		EBF160A82B308FB300E136FA /* CustomShapesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBF160A72B308FB300E136FA /* CustomShapesBootcamp.swift */; };
+		EBF8B2C12B3976860063DF0D /* DependencyInjectionBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBF8B2C02B3976860063DF0D /* DependencyInjectionBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -69,6 +70,7 @@
 		EBC9CEFB2B38938D006D1387 /* UIViewControllerRepresentableBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIViewControllerRepresentableBootcamp.swift; sourceTree = "<group>"; };
 		EBD275852B31D9E2001E1537 /* GenericsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GenericsBootcamp.swift; sourceTree = "<group>"; };
 		EBF160A72B308FB300E136FA /* CustomShapesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomShapesBootcamp.swift; sourceTree = "<group>"; };
+		EBF8B2C02B3976860063DF0D /* DependencyInjectionBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DependencyInjectionBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,6 +119,7 @@
 				EB2A12612B381BAD0096A47F /* UIViewRepresentableBootcamp.swift */,
 				EBC9CEFB2B38938D006D1387 /* UIViewControllerRepresentableBootcamp.swift */,
 				EBAEC57B2B38DA0C0082C6B5 /* ProtocolsBootcamp.swift */,
+				EBF8B2C02B3976860063DF0D /* DependencyInjectionBootcamp.swift */,
 				EB484DC72B2F110300635B8C /* Assets.xcassets */,
 				EB484DC92B2F110300635B8C /* Preview Content */,
 			);
@@ -257,6 +260,7 @@
 				EB9077E72B3063E400DD21D2 /* MatchedGeometryEffectBootcamp.swift in Sources */,
 				EB69F7002B3458F700810399 /* TabBarItem.swift in Sources */,
 				EBF160A82B308FB300E136FA /* CustomShapesBootcamp.swift in Sources */,
+				EBF8B2C12B3976860063DF0D /* DependencyInjectionBootcamp.swift in Sources */,
 				EB4ED14F2B32D635005AEFC0 /* PreferenceKeyBootcamp.swift in Sources */,
 				EB7E427B2B371491000D5E49 /* CustomNavBarContainerView.swift in Sources */,
 				EBAEC57C2B38DA0C0082C6B5 /* ProtocolsBootcamp.swift in Sources */,

@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EB0C87C72B3C1B710008D6E0 /* SwiftUIAdvancedLearning_UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB0C87C62B3C1B710008D6E0 /* SwiftUIAdvancedLearning_UITests.swift */; };
+		EB0C87C92B3C1B710008D6E0 /* SwiftUIAdvancedLearning_UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB0C87C82B3C1B710008D6E0 /* SwiftUIAdvancedLearning_UITestsLaunchTests.swift */; };
+		EB0D5F882B3BECAF00FA6E07 /* UITestingBootcampView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB0D5F872B3BECAF00FA6E07 /* UITestingBootcampView.swift */; };
 		EB2A12622B381BAD0096A47F /* UIViewRepresentableBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB2A12612B381BAD0096A47F /* UIViewRepresentableBootcamp.swift */; };
 		EB484DC42B2F110200635B8C /* SwiftUIAdvancedLearningApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB484DC32B2F110200635B8C /* SwiftUIAdvancedLearningApp.swift */; };
 		EB484DC82B2F110300635B8C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EB484DC72B2F110300635B8C /* Assets.xcassets */; };
@@ -31,6 +34,7 @@
 		EB8077CC2B2F9D9500433625 /* ButtonStyleBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB8077CB2B2F9D9500433625 /* ButtonStyleBootcamp.swift */; };
 		EB9077E52B30513A00DD21D2 /* AnyTransitionBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB9077E42B30513A00DD21D2 /* AnyTransitionBootcamp.swift */; };
 		EB9077E72B3063E400DD21D2 /* MatchedGeometryEffectBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB9077E62B3063E400DD21D2 /* MatchedGeometryEffectBootcamp.swift */; };
+		EB9450422B3C2D7000F18EEC /* UITestingBootcampView_UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB9450412B3C2D7000F18EEC /* UITestingBootcampView_UITests.swift */; };
 		EB9F7A342B31F9F10006CEC2 /* ViewBuilderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB9F7A332B31F9F10006CEC2 /* ViewBuilderBootcamp.swift */; };
 		EBA1BDAF2B39FCDB00BC4DF3 /* UnitTestingBootcampView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBA1BDAE2B39FCDB00BC4DF3 /* UnitTestingBootcampView.swift */; };
 		EBA1C0E12B342D0500F5534D /* CustomTabBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBA1C0E02B342D0500F5534D /* CustomTabBarView.swift */; };
@@ -46,6 +50,13 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
+		EB0C87CA2B3C1B710008D6E0 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = EB484DB82B2F110200635B8C /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = EB484DBF2B2F110200635B8C;
+			remoteInfo = SwiftUIAdvancedLearning;
+		};
 		EB67885D2B3A1AEF005558CE /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = EB484DB82B2F110200635B8C /* Project object */;
@@ -56,6 +67,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		EB0C87C42B3C1B710008D6E0 /* SwiftUIAdvancedLearning_UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftUIAdvancedLearning_UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		EB0C87C62B3C1B710008D6E0 /* SwiftUIAdvancedLearning_UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIAdvancedLearning_UITests.swift; sourceTree = "<group>"; };
+		EB0C87C82B3C1B710008D6E0 /* SwiftUIAdvancedLearning_UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIAdvancedLearning_UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		EB0D5F872B3BECAF00FA6E07 /* UITestingBootcampView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UITestingBootcampView.swift; sourceTree = "<group>"; };
 		EB2A12612B381BAD0096A47F /* UIViewRepresentableBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIViewRepresentableBootcamp.swift; sourceTree = "<group>"; };
 		EB484DC02B2F110200635B8C /* SwiftUIAdvancedLearning.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIAdvancedLearning.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EB484DC32B2F110200635B8C /* SwiftUIAdvancedLearningApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIAdvancedLearningApp.swift; sourceTree = "<group>"; };
@@ -82,6 +97,7 @@
 		EB8077CB2B2F9D9500433625 /* ButtonStyleBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonStyleBootcamp.swift; sourceTree = "<group>"; };
 		EB9077E42B30513A00DD21D2 /* AnyTransitionBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnyTransitionBootcamp.swift; sourceTree = "<group>"; };
 		EB9077E62B3063E400DD21D2 /* MatchedGeometryEffectBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MatchedGeometryEffectBootcamp.swift; sourceTree = "<group>"; };
+		EB9450412B3C2D7000F18EEC /* UITestingBootcampView_UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UITestingBootcampView_UITests.swift; sourceTree = "<group>"; };
 		EB9F7A332B31F9F10006CEC2 /* ViewBuilderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewBuilderBootcamp.swift; sourceTree = "<group>"; };
 		EBA1BDAE2B39FCDB00BC4DF3 /* UnitTestingBootcampView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UnitTestingBootcampView.swift; sourceTree = "<group>"; };
 		EBA1C0E02B342D0500F5534D /* CustomTabBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTabBarView.swift; sourceTree = "<group>"; };
@@ -97,6 +113,13 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
+		EB0C87C12B3C1B710008D6E0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		EB484DBD2B2F110200635B8C /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -114,11 +137,22 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		EB0C87C52B3C1B710008D6E0 /* SwiftUIAdvancedLearning_UITests */ = {
+			isa = PBXGroup;
+			children = (
+				EB0C87C62B3C1B710008D6E0 /* SwiftUIAdvancedLearning_UITests.swift */,
+				EB9450412B3C2D7000F18EEC /* UITestingBootcampView_UITests.swift */,
+				EB0C87C82B3C1B710008D6E0 /* SwiftUIAdvancedLearning_UITestsLaunchTests.swift */,
+			);
+			path = SwiftUIAdvancedLearning_UITests;
+			sourceTree = "<group>";
+		};
 		EB484DB72B2F110200635B8C = {
 			isa = PBXGroup;
 			children = (
 				EB484DC22B2F110200635B8C /* SwiftUIAdvancedLearning */,
 				EB67885A2B3A1AEF005558CE /* SwiftUIAdvancedLearning_Tests */,
+				EB0C87C52B3C1B710008D6E0 /* SwiftUIAdvancedLearning_UITests */,
 				EB484DC12B2F110200635B8C /* Products */,
 			);
 			sourceTree = "<group>";
@@ -128,6 +162,7 @@
 			children = (
 				EB484DC02B2F110200635B8C /* SwiftUIAdvancedLearning.app */,
 				EB6788592B3A1AEF005558CE /* SwiftUIAdvancedLearning_Tests.xctest */,
+				EB0C87C42B3C1B710008D6E0 /* SwiftUIAdvancedLearning_UITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -153,6 +188,7 @@
 				EBAEC57B2B38DA0C0082C6B5 /* ProtocolsBootcamp.swift */,
 				EBF8B2C02B3976860063DF0D /* DependencyInjectionBootcamp.swift */,
 				EBA1BDAD2B39FCA800BC4DF3 /* UnitTestingBootcamp */,
+				EB0D5F872B3BECAF00FA6E07 /* UITestingBootcampView.swift */,
 				EB484DC72B2F110300635B8C /* Assets.xcassets */,
 				EB484DC92B2F110300635B8C /* Preview Content */,
 			);
@@ -225,6 +261,24 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
+		EB0C87C32B3C1B710008D6E0 /* SwiftUIAdvancedLearning_UITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EB0C87CE2B3C1B710008D6E0 /* Build configuration list for PBXNativeTarget "SwiftUIAdvancedLearning_UITests" */;
+			buildPhases = (
+				EB0C87C02B3C1B710008D6E0 /* Sources */,
+				EB0C87C12B3C1B710008D6E0 /* Frameworks */,
+				EB0C87C22B3C1B710008D6E0 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				EB0C87CB2B3C1B710008D6E0 /* PBXTargetDependency */,
+			);
+			name = SwiftUIAdvancedLearning_UITests;
+			productName = SwiftUIAdvancedLearning_UITests;
+			productReference = EB0C87C42B3C1B710008D6E0 /* SwiftUIAdvancedLearning_UITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
 		EB484DBF2B2F110200635B8C /* SwiftUIAdvancedLearning */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = EB484DCE2B2F110300635B8C /* Build configuration list for PBXNativeTarget "SwiftUIAdvancedLearning" */;
@@ -270,6 +324,10 @@
 				LastSwiftUpdateCheck = 1510;
 				LastUpgradeCheck = 1500;
 				TargetAttributes = {
+					EB0C87C32B3C1B710008D6E0 = {
+						CreatedOnToolsVersion = 15.1;
+						TestTargetID = EB484DBF2B2F110200635B8C;
+					};
 					EB484DBF2B2F110200635B8C = {
 						CreatedOnToolsVersion = 15.0.1;
 					};
@@ -294,11 +352,19 @@
 			targets = (
 				EB484DBF2B2F110200635B8C /* SwiftUIAdvancedLearning */,
 				EB6788582B3A1AEF005558CE /* SwiftUIAdvancedLearning_Tests */,
+				EB0C87C32B3C1B710008D6E0 /* SwiftUIAdvancedLearning_UITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
+		EB0C87C22B3C1B710008D6E0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		EB484DBE2B2F110200635B8C /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -318,12 +384,23 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
+		EB0C87C02B3C1B710008D6E0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EB0C87C92B3C1B710008D6E0 /* SwiftUIAdvancedLearning_UITestsLaunchTests.swift in Sources */,
+				EB9450422B3C2D7000F18EEC /* UITestingBootcampView_UITests.swift in Sources */,
+				EB0C87C72B3C1B710008D6E0 /* SwiftUIAdvancedLearning_UITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		EB484DBC2B2F110200635B8C /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				EB6788542B3A19DB005558CE /* UnitTestingBootcampViewModel.swift in Sources */,
 				EB7E42772B36F831000D5E49 /* AppNavBarView.swift in Sources */,
+				EB0D5F882B3BECAF00FA6E07 /* UITestingBootcampView.swift in Sources */,
 				EB69F6FE2B34556800810399 /* TabBarItemsPreferenceKey.swift in Sources */,
 				EBA1BDAF2B39FCDB00BC4DF3 /* UnitTestingBootcampView.swift in Sources */,
 				EB4ED1572B333567005AEFC0 /* AppTabBarView.swift in Sources */,
@@ -369,6 +446,11 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
+		EB0C87CB2B3C1B710008D6E0 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = EB484DBF2B2F110200635B8C /* SwiftUIAdvancedLearning */;
+			targetProxy = EB0C87CA2B3C1B710008D6E0 /* PBXContainerItemProxy */;
+		};
 		EB67885E2B3A1AEF005558CE /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = EB484DBF2B2F110200635B8C /* SwiftUIAdvancedLearning */;
@@ -377,6 +459,42 @@
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
+		EB0C87CC2B3C1B710008D6E0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 8VZXPVXH33;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.matflow.SwiftUIAdvancedLearning-UITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = SwiftUIAdvancedLearning;
+			};
+			name = Debug;
+		};
+		EB0C87CD2B3C1B710008D6E0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 8VZXPVXH33;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.matflow.SwiftUIAdvancedLearning-UITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = SwiftUIAdvancedLearning;
+			};
+			name = Release;
+		};
 		EB484DCC2B2F110300635B8C /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -595,6 +713,15 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
+		EB0C87CE2B3C1B710008D6E0 /* Build configuration list for PBXNativeTarget "SwiftUIAdvancedLearning_UITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EB0C87CC2B3C1B710008D6E0 /* Debug */,
+				EB0C87CD2B3C1B710008D6E0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		EB484DBB2B2F110200635B8C /* Build configuration list for PBXProject "SwiftUIAdvancedLearning" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (

@@ -45,6 +45,7 @@
 		EBCB199C2B3B166500DEA463 /* NewMockDataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBCB199B2B3B166500DEA463 /* NewMockDataService.swift */; };
 		EBCB199E2B3B210300DEA463 /* NewMockDataService_Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBCB199D2B3B210300DEA463 /* NewMockDataService_Tests.swift */; };
 		EBD275862B31D9E2001E1537 /* GenericsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBD275852B31D9E2001E1537 /* GenericsBootcamp.swift */; };
+		EBE407742B3D942200404024 /* AdvancedCombineBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBE407732B3D942200404024 /* AdvancedCombineBootcamp.swift */; };
 		EBF160A82B308FB300E136FA /* CustomShapesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBF160A72B308FB300E136FA /* CustomShapesBootcamp.swift */; };
 		EBF8B2C12B3976860063DF0D /* DependencyInjectionBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBF8B2C02B3976860063DF0D /* DependencyInjectionBootcamp.swift */; };
 /* End PBXBuildFile section */
@@ -108,6 +109,7 @@
 		EBCB199B2B3B166500DEA463 /* NewMockDataService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewMockDataService.swift; sourceTree = "<group>"; };
 		EBCB199D2B3B210300DEA463 /* NewMockDataService_Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewMockDataService_Tests.swift; sourceTree = "<group>"; };
 		EBD275852B31D9E2001E1537 /* GenericsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GenericsBootcamp.swift; sourceTree = "<group>"; };
+		EBE407732B3D942200404024 /* AdvancedCombineBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdvancedCombineBootcamp.swift; sourceTree = "<group>"; };
 		EBF160A72B308FB300E136FA /* CustomShapesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomShapesBootcamp.swift; sourceTree = "<group>"; };
 		EBF8B2C02B3976860063DF0D /* DependencyInjectionBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DependencyInjectionBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -189,6 +191,7 @@
 				EBF8B2C02B3976860063DF0D /* DependencyInjectionBootcamp.swift */,
 				EBA1BDAD2B39FCA800BC4DF3 /* UnitTestingBootcamp */,
 				EB0D5F872B3BECAF00FA6E07 /* UITestingBootcampView.swift */,
+				EBE407732B3D942200404024 /* AdvancedCombineBootcamp.swift */,
 				EB484DC72B2F110300635B8C /* Assets.xcassets */,
 				EB484DC92B2F110300635B8C /* Preview Content */,
 			);
@@ -412,6 +415,7 @@
 				EB484DC42B2F110200635B8C /* SwiftUIAdvancedLearningApp.swift in Sources */,
 				EBA1C0E12B342D0500F5534D /* CustomTabBarView.swift in Sources */,
 				EB7E427D2B3721EE000D5E49 /* CustomNavView.swift in Sources */,
+				EBE407742B3D942200404024 /* AdvancedCombineBootcamp.swift in Sources */,
 				EB7E42792B370FBA000D5E49 /* CustomNavBarView.swift in Sources */,
 				EB9F7A342B31F9F10006CEC2 /* ViewBuilderBootcamp.swift in Sources */,
 				EBD275862B31D9E2001E1537 /* GenericsBootcamp.swift in Sources */,

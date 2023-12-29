@@ -32,6 +32,7 @@
 		EB7E427F2B372629000D5E49 /* CustomNavLink.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB7E427E2B372629000D5E49 /* CustomNavLink.swift */; };
 		EB7E42812B372E14000D5E49 /* CustomNavBarPreferenceKey.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB7E42802B372E14000D5E49 /* CustomNavBarPreferenceKey.swift */; };
 		EB8077CC2B2F9D9500433625 /* ButtonStyleBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB8077CB2B2F9D9500433625 /* ButtonStyleBootcamp.swift */; };
+		EB8E46812B3EF59C00A0D1E8 /* FuturesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB8E46802B3EF59C00A0D1E8 /* FuturesBootcamp.swift */; };
 		EB9077E52B30513A00DD21D2 /* AnyTransitionBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB9077E42B30513A00DD21D2 /* AnyTransitionBootcamp.swift */; };
 		EB9077E72B3063E400DD21D2 /* MatchedGeometryEffectBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB9077E62B3063E400DD21D2 /* MatchedGeometryEffectBootcamp.swift */; };
 		EB9450422B3C2D7000F18EEC /* UITestingBootcampView_UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB9450412B3C2D7000F18EEC /* UITestingBootcampView_UITests.swift */; };
@@ -96,6 +97,7 @@
 		EB7E427E2B372629000D5E49 /* CustomNavLink.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomNavLink.swift; sourceTree = "<group>"; };
 		EB7E42802B372E14000D5E49 /* CustomNavBarPreferenceKey.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomNavBarPreferenceKey.swift; sourceTree = "<group>"; };
 		EB8077CB2B2F9D9500433625 /* ButtonStyleBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonStyleBootcamp.swift; sourceTree = "<group>"; };
+		EB8E46802B3EF59C00A0D1E8 /* FuturesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FuturesBootcamp.swift; sourceTree = "<group>"; };
 		EB9077E42B30513A00DD21D2 /* AnyTransitionBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnyTransitionBootcamp.swift; sourceTree = "<group>"; };
 		EB9077E62B3063E400DD21D2 /* MatchedGeometryEffectBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MatchedGeometryEffectBootcamp.swift; sourceTree = "<group>"; };
 		EB9450412B3C2D7000F18EEC /* UITestingBootcampView_UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UITestingBootcampView_UITests.swift; sourceTree = "<group>"; };
@@ -192,6 +194,7 @@
 				EBA1BDAD2B39FCA800BC4DF3 /* UnitTestingBootcamp */,
 				EB0D5F872B3BECAF00FA6E07 /* UITestingBootcampView.swift */,
 				EBE407732B3D942200404024 /* AdvancedCombineBootcamp.swift */,
+				EB8E46802B3EF59C00A0D1E8 /* FuturesBootcamp.swift */,
 				EB484DC72B2F110300635B8C /* Assets.xcassets */,
 				EB484DC92B2F110300635B8C /* Preview Content */,
 			);
@@ -420,6 +423,7 @@
 				EB9F7A342B31F9F10006CEC2 /* ViewBuilderBootcamp.swift in Sources */,
 				EBD275862B31D9E2001E1537 /* GenericsBootcamp.swift in Sources */,
 				EBC9CEFC2B38938D006D1387 /* UIViewControllerRepresentableBootcamp.swift in Sources */,
+				EB8E46812B3EF59C00A0D1E8 /* FuturesBootcamp.swift in Sources */,
 				EB7E427F2B372629000D5E49 /* CustomNavLink.swift in Sources */,
 				EBCB199C2B3B166500DEA463 /* NewMockDataService.swift in Sources */,
 				EB4ED1522B330CF9005AEFC0 /* GeometryPreferenceKeyBootcamp.swift in Sources */,
